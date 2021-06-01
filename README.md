@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priya Damodharan!
-- 👀 I’m interested in Web developement
+- 👀 I’m interested in Backend developement.
 - 🌱 I’m currently learning Spring.
-- 💞️ I’m looking to collaborate on some exciting java based projects.
+- 💞️ I’m looking to collaborate on some exciting java mvc based projects.
 - 📫 How to reach me ✉️ priyasdamodharan@gmail.com
 
 <!---
