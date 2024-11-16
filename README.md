@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Priya Damodharan!
+- 👋 Hi, I’m Priya Damodharan, a grad student at the Washington State University!
 - 👀 I’m interested in Backend developement.
-- 🌱 I’m currently learning Spring.
-- 💞️ I’m looking to collaborate on some exciting java mvc based projects.
+- 💞️ I’m looking to collaborate on some exciting java based projects.
 - 📫 How to reach me ✉️ priyasdamodharan@gmail.com
 
 <!---
